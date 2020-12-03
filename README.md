@@ -11,6 +11,31 @@ A brief workshop at Pioneer Works, December, 2020
 * Read the introduction and Chapter 1 of [Seeing Like a State](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf) by James C Scott
 * Read [When Proof Is Not Enough](https://fivethirtyeight.com/features/when-proof-is-not-enough/) by Mimi Onuoha
 
+## Some Examples In No Particular Order
+
+* [Sci-Hub](https://sci-hub.se/)
+* [Capture](https://www.paolocirio.net/work/capture/)
+* [Virtual Watchers](http://www.virtualwatchers.de/VW.html)
+* [Dual Power Map](https://blacksocialists.us/dual-power-map)
+* [Bezos Wealth](https://mkorostoff.github.io/1-pixel-wealth/)
+* [Missing Datasets](https://mimionuoha.com/the-library-of-missing-datasets)
+* [Forgot Your Password](https://arambartholl.com/forgot-your-password/)
+* [Scanmap](https://scanmap.mobi/NY/)
+* [Million Dollar Blocks](https://c4sr.columbia.edu/projects/million-dollar-blocks)
+* [Grand Old Party](https://mepler.com/Grand-Old-Party)
+* [Corporations Funding Police Foundations](https://littlesis.org/oligrapher/5200-corporations-funding-police-foundations)
+* [Dronestagram](https://jamesbridle.com/works/dronestagram)
+* [Skycircles](https://skycircl.es/donate/)
+
+### Some of my projects
+
+* [The Good life](https://lav.io/projects/the-good-life-enron-simulator/)
+* [White Collar Crime Risk Zones](https://lav.io/projects/white-collar-crime-risk-zones/)
+* [Ice Propaganda](https://lav.io/projects/ice-propaganda-videos/)
+* [Occupied B&B](https://lav.io/occupied_bnb/)
+* [Get Well Soon](https://lav.io/projects/get-well-soon/)
+* [3 Degrees](https://lav.io/projects/3-degrees-of-separation/)
+* [Cop Salaries](https://twitter.com/sam_lavigne/status/1270716267876343808)
 
 ## Materials
 
