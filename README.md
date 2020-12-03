@@ -28,6 +28,8 @@ A brief workshop at Pioneer Works, December, 2020
 * [Skycircles](https://skycircl.es/donate/)
 * [Archive of Police Brutality During 2020 George Floyd Protests](https://github.com/2020PB/police-brutality)
 
+Have more examples that you'd like to add? Just [add an issue](https://github.com/antiboredom/interrogating-dating-pioneer-works/issues/new)
+
 ### Some of my projects
 
 * [The Good life](https://lav.io/projects/the-good-life-enron-simulator/)
@@ -52,3 +54,7 @@ During this workshop we'll be looking at how public data published by NYPD under
 * [Citywide Payroll Data (Fiscal Year)](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e)
 
 Each of these should have a `View Data` button that allows you to see the full dataset, as well as a data dictionary that explains the meaning of each column.
+
+## Further Exploration
+
+* [Scrapism](https://scrapism.lav.io)
