@@ -9,6 +9,8 @@ A brief workshop at Pioneer Works, December, 2020
 * Read [Data Feminism, Chapter Two: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints](https://mitpressonpubpub.mitpress.mit.edu/pub/8tjbs2x5/release/2) by by Catherine D'Ignazio and Lauren Klein
 * Listen to Ruha Benjamin talk about her book [Race After Technology](https://listen.datasociety.net/episodes/race-after-technology/transcript) (or [purchase the book](https://www.wiley.com/en-us/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437) and read the introduction)
 * Read the introduction and Chapter 1 of [Seeing Like a State](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf) by James C Scott
+* Read [When Proof Is Not Enough](https://fivethirtyeight.com/features/when-proof-is-not-enough/) by Mimi Onuoha
+
 
 ## Materials
 
